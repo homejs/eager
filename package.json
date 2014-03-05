@@ -1,0 +1,34 @@
+{
+  "name": "eager",
+  "version": "0.0.0",
+  "description": "Eagerly assigning multiple (highly-relative) values into one map.",
+  "main": "lib/eager",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "dependencies": {
+    "underscore": "*",
+    "async": "*"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "keywords": [
+    "eager",
+    "assign",
+    "map"
+  ],
+  "author": "fritx <uxfritz@163.com> (https://github.com/fritx)",
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:homejs/eager.git"
+  },
+  "bugs": {
+    "url": "https://github.com/homejs/eager/issues"
+  },
+  "homepage": "https://github.com/homejs/eager"
+}
